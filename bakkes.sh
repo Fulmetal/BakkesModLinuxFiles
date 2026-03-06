@@ -1,0 +1,1 @@
+WINEFSYNC=1 WINEPREFIX="/home/fulmetal/.steam/steam/steamapps/compatdata/252950/pfx" "/home/fulmetal/.steam/steam/steamapps/common/Proton - Experimental/files/bin/wine64" "/home/fulmetal/.steam/steam/steamapps/compatdata/252950/pfx/drive_c/Program Files/BakkesMod/BakkesMod.exe"
