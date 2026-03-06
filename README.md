@@ -3,7 +3,9 @@ Files that are used in the bakkes mod install on linux tutorial.
 
 [![Watch the video](https://img.youtube.com/vi/lLASa6Pe6lk/default.jpg)](https://www.youtube.com/watch?v=lLASa6Pe6lk)
 
-<iframe width="1840" height="1035" src="https://www.youtube.com/embed/lLASa6Pe6lk" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=lLASa6Pe6lk" target="_blank">
+ <img src="http://img.youtube.com/vi/lLASa6Pe6lk/mqdefault.jpg" alt="Watch the video" width="240" height="180" border="10" />
+</a>
 
 This assumes you have steam installed as a system package. It might work on the flatpack version but I have not tested it.
 
