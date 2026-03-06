@@ -3,7 +3,7 @@ Files that are used in the bakkes mod install on linux tutorial
 
 This assumes you have steam installed as a system package. It might work on the flatpack version but I have not tested it.
 
-# bakkers.sh Usage
+# bakkes.sh Usage
 Ensure that all the paths in the file correspond to things that exist on your system.
 
 This is a folder
