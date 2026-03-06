@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=Bakkers Mod
+Exec=/home/fulmetal/BakkesMod/bakkes.sh
+Icon=application-x-shellscript
+Type=Application
+Categories=Game;
