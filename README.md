@@ -1,7 +1,9 @@
 # Bakkes Mod Linux Files
 Files that are used in the bakkes mod install on linux tutorial.
 
-[link text](www.tempurl.doesnotexist)
+[![Watch the video](https://img.youtube.com/vi/lLASa6Pe6lk/default.jpg)](https://www.youtube.com/watch?v=lLASa6Pe6lk)
+
+<iframe width="1840" height="1035" src="https://www.youtube.com/embed/lLASa6Pe6lk" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 This assumes you have steam installed as a system package. It might work on the flatpack version but I have not tested it.
 
