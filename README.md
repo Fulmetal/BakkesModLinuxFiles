@@ -18,7 +18,7 @@ If you are running a different proton version, you must change the second path t
 As an example for proton 8
 /home/fulmetal/.steam/steam/steamapps/common/Proton 8.0/dist/bin/wine64
 
-#Links
+# Links
 Bakkes Mod:
 https://bakkesmod.com/
 
